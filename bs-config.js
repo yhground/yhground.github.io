@@ -3,6 +3,6 @@
 module.exports = {
     "port" :8080,
     "files" : "./**/*.{js, html, css,sass}",
-    "server" : { "baseDir" : "./public" }
+    "server" : { "baseDir" : "./" }
     /*"browser" : ["chrome", "firefox"]*/
 }
