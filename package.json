@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/yhground/yhground.github.io/issues"
   },
-  "homepage": "https://github.com/yhground/yhground.github.io",
+  "homepage": "https://yhground.github.io",
   "devDependencies": {
     "lite-server": "^2.2.0",
     "rect": "^1.2.1",

@@ -1,0 +1,22 @@
+$app-shadow:  0 1px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(181, 232, 83, 0.1), 0 0 10px rgba(181, 232, 83, 0.1)
+
+html
+    font-family: 'Arial'
+    font-size: 1em
+    & body, .app
+        margin: 0
+        padding: 0
+        height: 100%
+        width: 100%
+
+.app
+    .navigation
+        width: 100%
+        height: 3rem
+        text-shadow: $app-shadow
+        .title
+            padding-left: 1rem
+    h1
+        font-weight: 900
+        font-size: 2.5rem
+        

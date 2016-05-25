@@ -2,3 +2,4 @@ log/**
 node_modules/**
 params.json
 npm-debug.log
+.sass-cache
